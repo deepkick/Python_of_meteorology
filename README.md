@@ -9,3 +9,6 @@ Python による一般気象学の学習
 ## 大気の熱力学
 * 理想気体の状態方程式
     * 01. 理想気体の状態方程式 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepkick/Python_of_meteorology/blob/main/01_Thermodynamics%20of%20the%20atmosphere%20Equation%20of%20state%20of%20an%20ideal%20gas.ipynb)
+
+#### Special Thanks and References
+* 「一般気象学　第2版補訂版」 小倉義光著 2016
